@@ -1,1 +1,0 @@
-import{g as e,B as o,K as a,Q as r,a9 as c,a3 as n}from"./index-_v_ROuBL.js";const s=e({__name:"CopyRight",props:{color:{type:String,default:""},text:{type:String,default:"版权所有 © YLD科技有限公司，保留所有权利，川F3-20233308号"}},setup(t){return(p,l)=>(o(),a("p",{style:c({color:t.color})},r(t.text),5))}}),_=n(s,[["__scopeId","data-v-de8454ec"]]);export{_ as C};
