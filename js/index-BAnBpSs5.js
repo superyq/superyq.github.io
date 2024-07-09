@@ -1,0 +1,1 @@
+import{g as r,aS as a,T as c,B as p,K as u}from"./index-D8FvNXUN.js";const i={class:"redirect-contianer"},f=r({__name:"index",setup(_){const t=a(),o=c(),{params:s,query:n}=t,{path:e}=s;return o.replace({path:`/(${typeof e=="string"?e:e.join("/")})`,query:n}),(m,d)=>(p(),u("div",i))}});export{f as default};

@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20ec8d"],{b19a:function(t,e,n){"use strict";n.r(e);var r=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},a=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("footer",{staticClass:"c-footer"},[n("p",[n("a",{attrs:{href:"http://www.4399.com",target:"_blank"}},[t._v("人生若只如初见")]),t._v("2019 © CHAINONE")])])}],c={name:"CFooter"},o=c,s=n("2877"),l=Object(s["a"])(o,r,a,!1,null,null,null);e["default"]=l.exports}}]);
-//# sourceMappingURL=chunk-2d20ec8d.720b02b5.js.map
