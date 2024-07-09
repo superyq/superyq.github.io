@@ -1,0 +1,1 @@
+import{a3 as t,B as e,K as s,M as c,L as n,X as r,Q as o,a4 as _}from"./index-_v_ROuBL.js";const i={},l={class:"container"};function d(m,p){return e(),s("div",l,[(e(),s(c,null,n(10,a=>r("span",{class:_(`item${a}`)},o(a),3)),64))])}const u=t(i,[["render",d],["__scopeId","data-v-3a02cc6c"]]);export{u as default};
