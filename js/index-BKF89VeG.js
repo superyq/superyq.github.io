@@ -1,1 +1,0 @@
-import{_ as t}from"./ImgCutter.vue_vue_type_script_setup_true_lang-CmZJIMBi.js";import{g as n,B as s,K as a,J as c}from"./index-D8FvNXUN.js";const r={class:"index"},p=n({__name:"index",setup(_){const o=e=>{console.log(1,e)};return(e,i)=>(s(),a("div",r,[c(t,{onGetUrl:o})]))}});export{p as default};

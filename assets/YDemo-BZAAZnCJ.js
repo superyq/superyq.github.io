@@ -1,0 +1,1 @@
+import{g as n,S as o,R as r,C as s,H as c,aG as e,aH as i,E as m}from"./index-BkQ_KyLE.js";const _=n({__name:"YDemo",props:{demo:{type:String,required:!0}},setup(t){const a=()=>{};return(d,l)=>(m(),o("div",null,[r(c,{onClick:a},{default:s(()=>[e("btn")]),_:1}),e(" "+i(t.demo),1)]))}});export{_ as default};
